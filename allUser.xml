@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accounts type="array">
   <account>
+  
     <id type="integer">1</id>
     <subscriber-id type="integer">1</subscriber-id>
     <status>active</status>
